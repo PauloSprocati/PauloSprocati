@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um estudante da Universidade UMFG, com conhecimento em Java, JavaScript, HTML, CSS, SQL E UML. <br>Gosto muito da programação e estou ansioso para aplicar minhas habilidades e aprender ainda mais em um ambiente de trabalho.
+Sou formado pela Universidade UMFG, com conhecimento em Java, JavaScript, HTML, CSS, SQL E UML. <br>Gosto muito da programação e estou ansioso para aplicar minhas habilidades e aprender ainda mais em um ambiente de trabalho.
 
 
 ## 🌐 Socials:
